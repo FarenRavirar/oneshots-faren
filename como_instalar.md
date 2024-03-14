@@ -6,6 +6,7 @@ Após isso, entre no Roll 20, vá em:
 - Open Tool List
 - Module Importer/Exporter
 - Upload File
+- Importe o arquivo "modulo_roll_20.json"
 - Import Selected
 
 Essa versão é traduzida e adaptada da versão do MandyMod, disponível gratuitamente.
